@@ -69,7 +69,7 @@
     "@alifd/theme-design-pro": "0.x",
     "@iarna/toml": "^3.0.0",
     "axios": "^0.21.1",
-    "core-js": "^3.6.4",
+    "core-js": "^3.47.0",
     "js-yaml": "^4.1.0",
     "moment": "^2.23.0",
     "prop-types": "^15.6.2",
